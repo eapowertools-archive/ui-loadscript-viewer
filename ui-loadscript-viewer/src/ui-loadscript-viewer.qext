@@ -1,0 +1,16 @@
+{
+	"name": "Load Script Viewer",
+	"description": "An extension object for viewing (not editing) a Qlik Sense load script in a published app.",
+	"type": "visualization",
+	"icon": "text-image",
+	"version": "1.0.0",
+	"preview": "logo.png",
+	"author": "EA Powertools Team, Jeff Goldberg",
+	"homepage": "https://github.com/eapowertools",
+	"keywords": "qlik-sense, visualization",
+	"license": "mit",
+	"repository": "https://github.com/eapowertools/ui-loadscript-viewer",
+	"dependencies": {
+		"qlik-sense": ">=3.1.4"
+	}
+}
