@@ -3,7 +3,7 @@
 	"description": "An extension object for viewing (not editing) a Qlik Sense load script in a published app.",
 	"type": "visualization",
 	"icon": "text-image",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"preview": "logo.png",
 	"author": "EA Powertools Team, Jeff Goldberg",
 	"homepage": "https://github.com/eapowertools",
