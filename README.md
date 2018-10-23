@@ -1,3 +1,6 @@
+# Status
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
+
 # ui-loadscript-viewer
 An extension object for viewing (not editing) a Qlik Sense load script in a published app.
 
