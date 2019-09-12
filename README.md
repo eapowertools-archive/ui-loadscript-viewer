@@ -10,7 +10,7 @@ The Load Script Viewer is a simple extension that displays the load script of a 
 
 ![Extension Props](https://github.com/eapowertools/ui-loadscript-viewer/wiki/imgs/extensionDesc.png)
 
-![Extension Screenshot](https://s3.amazonaws.com/eapowertools/loadscriptviewer/img/loadscriptViewer.png)
+![Extension Screenshot](https://github.com/eapowertools/ui-loadscript-viewer/wiki/imgs/loadscriptViewer.png)
 
 ### Installation
 To install the load script viewer, **[download the zip file from here](https://github.com/eapowertools/ui-loadscript-viewer/blob/master/ui-loadscript-viewer/build/latest/ui-loadscript-viewer.zip)**.
